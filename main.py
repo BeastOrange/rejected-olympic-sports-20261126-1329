@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 
+# Official entry for the Rejected Olympic Sports competition
 LINE: str = (
     "Men's 10m Spider Relocation: Britain's Miller slides a postcard under "
     "the pint glass with surgical precision, only for the arachnid to sprint "
